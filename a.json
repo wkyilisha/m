@@ -132,6 +132,15 @@
             "quickSearch": 1,
             "filterable": 0
         },
+                      {
+            "key": "7",
+            "name": "7",
+            "type": 0,
+            "api": "http://api.kunyu77.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        }
         {
             "key": "39影视",
             "name": "39影视",
